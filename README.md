@@ -37,7 +37,7 @@ insert into users (id, first_name, last_name, date_created, is_admin, num_points
 
 select * from users;
 
-### Running
+## Running
 
 Run this using sbt. If you downloaded this project from http://www.playframework.com/download then you'll find a prepackaged version of sbt in the project directory:
 ```
@@ -54,7 +54,7 @@ http://localhost:9000/query
 
 ## Versioning
 
-version 1.0
+* version 1.0
 
 ## Authors
 

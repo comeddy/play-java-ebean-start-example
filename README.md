@@ -53,14 +53,11 @@ http://localhost:9000/query
 * Uesrs.java
 
 ## Versioning
-
 * version 1.0
 
 ## Authors
-
 * **YoungJin Kim(Oscar)** - *Initial work* - [Profile](https://comeddy.wixsite.com/arch)
 * email : comeddy@gmail.com
 
 ## Acknowledgments
-
 * Hat tip to anyone whose code was used
